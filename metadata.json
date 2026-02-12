@@ -1,0 +1,7 @@
+{
+  "name": "HealthLedger EHR",
+  "description": "A blockchain-powered Electronic Health Record management system simulator featuring Hyperledger Fabric principles, immutable audit trails, and AI-driven clinical insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
